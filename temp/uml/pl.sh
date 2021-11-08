@@ -1,0 +1,11 @@
+youtube-dl -ctk http://www.youtube.com/watch?v=FNkuGEr1gB4
+youtube-dl -ctk http://www.youtube.com/watch?v=RMuMz5hQMf4
+youtube-dl -ctk http://www.youtube.com/watch?v=q2F2I8WT1kY
+youtube-dl -ctk http://www.youtube.com/watch?v=6-IuGdvNbNQ
+youtube-dl -ctk http://www.youtube.com/watch?v=PhZKyvzFzS4
+youtube-dl -ctk http://www.youtube.com/watch?v=w2hT8oo2iVo
+youtube-dl -ctk http://www.youtube.com/watch?v=tWIe9E4SWQo
+youtube-dl -ctk http://www.youtube.com/watch?v=opGA0aKtihA
+youtube-dl -ctk http://www.youtube.com/watch?v=w46CxGfd8wY
+youtube-dl -ctk http://www.youtube.com/watch?v=o7qXAnWvff0
+youtube-dl -ctk http://www.youtube.com/watch?v=Jtt28MnoxDk
